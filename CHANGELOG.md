@@ -27,3 +27,4 @@
 - chore: link the usage section
 - docs: clarify the setup steps
 - chore: link the usage section
+- docs: add a note about the defaults
